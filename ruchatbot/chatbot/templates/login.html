@@ -33,10 +33,12 @@
                     <div class="card mb-5">
                         <div class="card-body text-bg-secondary border rounded d-flex flex-column align-items-center">
                             <div class="bs-icon-xl bs-icon my-4"><img src="{% static 'loginassets/img/logo.png' %}" width="116" height="106"></div>
-                            <form class="text-center" method="post">
-                                <div class="mb-3"><input class="form-control" type="email" name="number" placeholder="Number"></div>
+                            <form class="text-center" method="POST">
+                                {% csrf_token %}
+                                <div class="mb-3"><input class="form-control" type="text" name="number" placeholder="Number"></div>
                                 <div class="mb-3"><input class="form-control" type="password" name="password" placeholder="Password"></div>
                                 <div class="border rounded-pill mb-3"><button class="btn btn-dark border rounded d-block w-100" type="submit">Login</button></div>
+                                <div style="color: red;">{{errorMessage}}</div>
                             </form>
                         </div>
                     </div>
