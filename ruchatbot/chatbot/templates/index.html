@@ -1,17 +1,17 @@
+{% load static %}
 <!DOCTYPE html>
 <html data-bs-theme="light" lang="en" data-bss-forced-theme="light">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>firstTry</title>
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/Font%20Awesome%205%20Brands.css">
-    <link rel="stylesheet" href="assets/css/Font%20Awesome%205%20Free.css">
-    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="assets/css/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/fonts/fontawesome-all.min.css">
+    <title>Index</title>
+    <link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/Font%20Awesome%205%20Brands.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/Font%20Awesome%205%20Free.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/fonts/fontawesome-all.min.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/styles.css' %}">
+
 </head>
 
 <body>
@@ -29,9 +29,10 @@
         <main style="margin:5%;padding:30%;border-radius:10px;height:392.525px;color:var(--bs-btn-active-border-color);">
             <div><button class="btn btn-primary border rounded-0" type="button" style="width:42.1px;margin-left:350px;margin-top:137px;padding-top:0px;color:var(--bs-btn-active-border-color);background:url(&quot;https://cdn.bootstrapstudio.io/placeholders/1400x800.png&quot;), var(--bs-btn-disabled-color);transform:perspective(260px) translate(4px);position:relative;display:inline;">Link</button><input type="text" style="position:relative;display:grid;width:245%;padding-top:3px;padding-right:2px;margin-top:-10%;margin-left:-71%;text-align:left;"></div>
         </main>
-    </div><script src="assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
+    </div>
+    <script src="{% static 'assets/bootstrap/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'assets/js/bootstrap.min.js' %}"></script>
+
 </body>
 
 </html>
