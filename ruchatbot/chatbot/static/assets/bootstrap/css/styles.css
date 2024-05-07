@@ -1,0 +1,12 @@
+#promo {
+  text-align: center;
+  padding: 40px;
+  background-size: cover;
+}
+
+.round-3 {
+  border-radius: 40px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.75);
+}
+
