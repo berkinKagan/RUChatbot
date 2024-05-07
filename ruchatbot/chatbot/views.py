@@ -39,8 +39,10 @@ def logOut(request):
     logout(request)
     return redirect('login') 
 
-# This is the info view function
+
 def info(request):
     return render(request, 'info.html')
+
+
 
 
