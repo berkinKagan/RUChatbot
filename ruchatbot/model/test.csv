@@ -1,0 +1,51 @@
+text,intent
+Where do I apply for my first student ID?,get_student_card
+What's needed to get my student card issued?,get_student_card
+How do I replace a damaged student card?,get_student_card
+Can I customize my student ID card photo?,get_student_card
+What are the pickup hours for student IDs?,get_student_card
+Is the student card valid off-campus?,get_student_card
+How to link my student card with library access?,get_student_card
+What to do if I haven't received my student card yet?,get_student_card
+Can my student card be used for public transport discounts?,get_student_card
+Are there any fees associated with the student card?,get_student_card
+Is the orientation course mandatory for new students?,orientation_course_info
+How do I access orientation course materials online?,orientation_course_info
+What is covered in the 'How to RUC' orientation course?,orientation_course_info
+Is there a quiz or assessment in the orientation course?,orientation_course_info
+Can parents access the orientation course information?,orientation_course_info
+"What if I miss the orientation course, can I retake it?",orientation_course_info
+Are there any interactive sessions in the orientation course?,orientation_course_info
+How long is the orientation course available for new students?,orientation_course_info
+Does the orientation course include campus tour information?,orientation_course_info
+Who should I contact if I have questions about the orientation course?,orientation_course_info
+What's the deadline for dorm application submissions?,campus_accommodation_info
+Can you switch dorms mid-semester if unsatisfied?,campus_accommodation_info
+Are pets allowed in any of the campus accommodations?,campus_accommodation_info
+What kind of meal plans are offered with accommodations?,campus_accommodation_info
+How to apply for a dorm room with disability access?,campus_accommodation_info
+Are there any co-ed dorm buildings on campus?,campus_accommodation_info
+What security measures are in place in the dorms?,campus_accommodation_info
+How do I report a problem with my dorm facilities?,campus_accommodation_info
+Is it possible to get a single room in the dorms?,campus_accommodation_info
+What are the penalties for breaking dorm regulations?,campus_accommodation_info
+What's the difference between BA and BS degrees at RUC?,bachelors
+Are there accelerated bachelor's programs available?,bachelors
+Can you dual enroll in two different bachelor's programs?,bachelors
+What's the student retention rate in bachelor's programs?,bachelors
+Are there mentorship programs for bachelor's students?,bachelors
+How diverse is the student body in bachelor's programs?,bachelors
+What's the average class size in bachelor's courses?,bachelors
+Are there leadership programs for bachelor's students?,bachelors
+How does RUC support bachelor's students' mental health?,bachelors
+Are there any community service requirements for bachelor's students?,bachelors
+What machine learning courses are offered in the CS program?,computer_science
+Are there any women in tech initiatives in the CS department?,computer_science
+How does the CS program incorporate real-world projects?,computer_science
+What are the collaboration opportunities with the tech industry?,computer_science
+Is there a thesis requirement for the CS bachelor's program?,computer_science
+What startups have been founded by CS program alumni?,computer_science
+How does the CS program stay updated with technological advancements?,computer_science
+Are there any CS-specific study abroad programs?,computer_science
+What are the post-graduation support services for CS students?,computer_science
+How can CS students get involved in open source projects?,computer_science

@@ -1,0 +1,126 @@
+text,intent
+How do I get a new student ID card?,get_student_card
+What's the process for student card issuance?,get_student_card
+Can you tell me about the student card application?,get_student_card
+Where to apply for a student card?,get_student_card
+"I lost my student ID, what should I do?",get_student_card
+What documents do I need for a student card?,get_student_card
+Student card pickup locations?,get_student_card
+How long does it take to get a student ID?,get_student_card
+Is there a fee for the student card?,get_student_card
+Do I need a photo for my student card?,get_student_card
+When can I collect my student ID card?,get_student_card
+Can I apply for a student card online?,get_student_card
+What are the requirements for a student ID?,get_student_card
+Where do I go for student card replacement?,get_student_card
+How to replace a lost student card?,get_student_card
+Can international students get a student ID?,get_student_card
+What office issues student IDs?,get_student_card
+How to activate my student card?,get_student_card
+Do I need to renew my student card annually?,get_student_card
+What are the benefits of having a student ID?,get_student_card
+Can I use my student ID for library access?,get_student_card
+Are there any discounts with the student ID?,get_student_card
+How to report a stolen student card?,get_student_card
+What to do if my student ID is not working?,get_student_card
+Where can I find the student card application form?,get_student_card
+Is there a course for new students to learn about university basics?,orientation_course_info
+Where can I find the 'How to RUC' course details?,orientation_course_info
+Is there an orientation module on Moodle for starting my semester at RUC?,orientation_course_info
+Can you guide me to the introductory course for first-year students?,orientation_course_info
+How do I access the general information course for new RUC students?,orientation_course_info
+Does RUC have a Moodle page for incoming student orientation?,orientation_course_info
+"I'm new here, is there a course that covers everything I need to know about RUC?",orientation_course_info
+Where can I find the semester start guide or course for newbies at RUC?,orientation_course_info
+Is there a welcome course on Moodle for new students at RUC?,orientation_course_info
+How can I enroll in the 'How to RUC' course for orientation?,orientation_course_info
+Is there a general information session for RUC newcomers?,orientation_course_info
+What's the best way to get started with the RUC semester?,orientation_course_info
+Is there a primer course for all things RUC?,orientation_course_info
+Where do new students go to learn about RUC's essentials?,orientation_course_info
+How to find the introductory RUC course on Moodle?,orientation_course_info
+Is there a Moodle course that covers RUC basics for freshmen?,orientation_course_info
+Can you point me to RUC's getting started guide for new students?,orientation_course_info
+Where's the orientation course for RUC's incoming batch?,orientation_course_info
+How to enroll in RUC's Moodle course for new students?,orientation_course_info
+Is there an online guide for RUC beginners?,orientation_course_info
+What is the 'How to RUC' course about?,orientation_course_info
+Where can I access the RUC starter pack for freshmen?,orientation_course_info
+Is there a comprehensive guide for first-year RUC students?,orientation_course_info
+How do I start learning about RUC as a new student?,orientation_course_info
+What's included in the RUC orientation course for new students?,orientation_course_info
+How do I apply for campus accommodation?,campus_accommodation_info
+What are the rent rates for dorm buildings at RUC?,campus_accommodation_info
+Can you provide information on different dorm buildings?,campus_accommodation_info
+How do I sign the contract for my campus accommodation?,campus_accommodation_info
+When and where can I collect the keys for my dorm?,campus_accommodation_info
+What's the process for campus accommodation application?,campus_accommodation_info
+Are there any specific move-in dates for campus accommodation?,campus_accommodation_info
+What documents are required for campus accommodation registration?,campus_accommodation_info
+Can I see pictures of the dorm rooms before choosing?,campus_accommodation_info
+Is there an option for on-campus family accommodation?,campus_accommodation_info
+How do I renew my accommodation contract for next year?,campus_accommodation_info
+What are the rules and regulations for campus dorms?,campus_accommodation_info
+Are meal plans included with campus accommodation?,campus_accommodation_info
+How to report maintenance issues in the dorm rooms?,campus_accommodation_info
+What's the deadline for campus accommodation applications?,campus_accommodation_info
+Can I request a room change in campus accommodation?,campus_accommodation_info
+What facilities are included in the campus dorms?,campus_accommodation_info
+How to apply for special accommodation needs?,campus_accommodation_info
+What's the security like in campus accommodation?,campus_accommodation_info
+Are there any shared accommodations available on campus?,campus_accommodation_info
+How is the roommate matching done for campus dorms?,campus_accommodation_info
+What should I bring for my campus accommodation?,campus_accommodation_info
+Is internet access provided in the dorm rooms?,campus_accommodation_info
+How to handle conflicts with roommates in campus dorms?,campus_accommodation_info
+What are the policies for guests in campus accommodation?,campus_accommodation_info
+What bachelor's programs does RUC offer?,bachelors
+How long does a typical bachelor's program take at RUC?,bachelors
+Are there any scholarships available for bachelor's students?,bachelors
+What are the admission requirements for bachelor's programs?,bachelors
+Can I transfer credits into a bachelor's program at RUC?,bachelors
+What are the language requirements for bachelor's programs?,bachelors
+How do I apply for a bachelor's program at RUC?,bachelors
+What is the tuition fee for bachelor's programs?,bachelors
+Are there part-time bachelor's programs available?,bachelors
+What career services are available for bachelor's students?,bachelors
+Can international students enroll in bachelor's programs?,bachelors
+What study abroad options are there for bachelor's students?,bachelors
+How competitive are the bachelor's programs at RUC?,bachelors
+Are there any online bachelor's programs at RUC?,bachelors
+What are the housing options for bachelor's students?,bachelors
+How can I get academic advising for bachelor's programs?,bachelors
+What extracurricular activities are there for bachelor's students?,bachelors
+Is there a freshman orientation for bachelor's students?,bachelors
+How diverse are the bachelor's programs at RUC?,bachelors
+What facilities are available for bachelor's students?,bachelors
+Are there research opportunities for bachelor's students?,bachelors
+What scholarships are available for bachelor's degrees?,bachelors
+Can I double major in a bachelor's program at RUC?,bachelors
+What is the student-to-faculty ratio in bachelor's programs?,bachelors
+How is the alumni network for bachelor's graduates at RUC?,bachelors
+What topics are covered in the computer science bachelor's program?,computer_science
+Are there any coding bootcamps as part of the computer science program?,computer_science
+What programming languages are taught in the computer science curriculum?,computer_science
+How many credits are required to complete the computer science bachelor's degree?,computer_science
+Are there internship opportunities in the computer science program?,computer_science
+What are the job prospects for computer science graduates from RUC?,computer_science
+Is there a capstone project in the computer science bachelor's program?,computer_science
+What research opportunities are available for computer science students?,computer_science
+Can computer science students participate in hackathons?,computer_science
+What advanced computer science courses are offered at RUC?,computer_science
+Is there a focus on artificial intelligence in the computer science program?,computer_science
+How does RUC's computer science program compare to other universities?,computer_science
+Are there scholarships specifically for computer science students?,computer_science
+What clubs or organizations are there for computer science majors?,computer_science
+What are the prerequisites for enrolling in the computer science program?,computer_science
+Can I specialize in cybersecurity within the computer science program?,computer_science
+What faculty members are part of the computer science department?,computer_science
+How is the computer science program at RUC ranked nationally?,computer_science
+Are there opportunities for undergraduate research in computer science?,computer_science
+What hands-on experience can I expect in the computer science program?,computer_science
+Are computer science courses more theoretical or practical at RUC?,computer_science
+Can computer science students study abroad?,computer_science
+What support services are available for computer science students?,computer_science
+How collaborative are the projects in the computer science program?,computer_science
+Are there guest lectures or workshops for computer science students?,computer_science
